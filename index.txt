@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Radhika Choudhary
+Radhika Choudhary
+Data Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+radhikachoudhary.it@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 8169120755
 
 Birthday
-June 23, 1982
+August 08, 1998
 
 Location
-Sacramento, California, USA
+Mumbai, Maharashtra, India
 
 # navbar
 
